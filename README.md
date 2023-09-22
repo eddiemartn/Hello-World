@@ -17,7 +17,7 @@ Explain how to run your program and the files you need for it here.
 + Name of file
 + Location of file
 + What is inside of the file
-+ Link to the file (ex: [Biggest Fast Food Chains in the World] (https://www.foodandwine.com/lifestyle/worlds-largest-fast-food-chains)
++ Link to the file (ex: [Biggest Fast Food Chains in the World](https://www.foodandwine.com/lifestyle/worlds-largest-fast-food-chains))
 ###### **Additional Documentation**
 Add additional documentation here.
 ###### **Versioning**
